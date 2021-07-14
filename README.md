@@ -1,9 +1,10 @@
 # kelvin-Weather
-This is a training project to learn JavaScript from my online course.
+This is a training project to learn & practice JavaScript, Markdown, Git and Github from my online course.
 ## Table-of-contents
 + [General Info](#General-Info)
 + [Technologies](#Technologies)
 + [Steps](#Steps)
++ [Sources](#Sources)
 
 ### General Info
 
@@ -39,3 +40,7 @@ In the next step we will round the number saved to fahrenheit. Choose the variab
 Newton = Celsius * (33/100)
 12. Round down the Newton temperature using the .floor() method.
 13. Use console.log and string interpolation to log the temperature in newton to the console.
+
+### Sources
+
+This project is from my online curse from codecademy.com
